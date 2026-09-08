@@ -2,7 +2,7 @@
 
 **Effective date:** 2026-09-08
 
-BT Shortcuts ("the App", also referred to as "Bluetooth Shortcuts") is provided by **[Developer or legal entity name]** ("we", "us", or "our"). This Privacy Policy explains how information is handled when you use the App.
+BT Shortcuts ("the App", also referred to as "Bluetooth Shortcuts") is provided by Hibernate ("we", "us", or "our"). This Privacy Policy explains how information is handled when you use the App.
 
 Please replace the bracketed placeholders in this policy before publishing it.
 
